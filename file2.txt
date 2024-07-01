@@ -1,0 +1,8 @@
+& C:/Users/mohalsha/AppData/Local/Programs/Python/Python312/python.exe c:/Users/mohalsha/Desktop/Python_training/Excercise2.py 
+1 
+2 
+3 
+4 
+5 
+6 
+stop 
